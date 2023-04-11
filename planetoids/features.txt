@@ -1,0 +1,9 @@
+﻿ADDITIONAL FEATURES
+
+
+1. Sounds: 
+We made use of the
+   1. Pew: This is the “pew1.WAV” sound in the file. We activated this every time a bullet was shot from the ship.
+   2. Explosion: This is the “explosion.WAV” sound in the file. We activated this every time the Ship crashed into an asteroid.
+2. Player Lives Count: 
+We were able to add the players' lives count to the message Glabel that pops up after a collision in order for a player to get an idea of how many lives he has left
